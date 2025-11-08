@@ -1,0 +1,18 @@
+{
+  "name": "bankers-algorithm-simulator",
+  "version": "1.0.0",
+  "description": "Banker's Algorithm Simulator - Deadlock Avoidance & Resource Allocation",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "bankers-algorithm",
+    "operating-systems",
+    "deadlock-avoidance",
+    "resource-allocation"
+  ],
+  "author": "",
+  "license": "MIT"
+}
